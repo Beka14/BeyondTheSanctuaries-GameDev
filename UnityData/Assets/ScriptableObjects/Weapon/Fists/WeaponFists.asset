@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa672b84d9996eb4794ba8f8c3f19a68, type: 3}
+  m_Name: WeaponFists
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 11400000, guid: 0a34bfc3f9918df48a47968b6a144e96, type: 2}
+  clip: {fileID: 0}
+  projectileShell: {fileID: 0}
+  shellEjectionForce: 0
+  maxAmmo: 0
+  clipAmmo: 0
+  fireRate: 0
+  reloadTime: 0
+  spread: 0
+  recoil: 0
+  shootingMode: 0
+  bulletsPerBurst: 0
+  weaponName: Fists
+  animatorController: {fileID: 9100000, guid: c27d4140a8b231648b3e6773247094ab, type: 2}
+  fireSound: {fileID: 0}
+  reloadSound: {fileID: 0}
+  dryFireSound: {fileID: 0}

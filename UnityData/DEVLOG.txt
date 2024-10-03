@@ -1,0 +1,79 @@
+-27.03
+- shooting
+	* simple animations, reloading, fbx effevts
+- outside map
+- bunker map
+- inventory in progress
+
+TODO:
+- health system
+- dumb enemies
+- make models of crafting table
+- inventory done
+- basic UI for health
+
+-02.04
+- simple UI
+- basic health system for player and enemies
+- polish of player controler
+- inventory still in motion (ui troubles)
+
+TODO:
+- inventory done
+- bunker base done
+- enemy movement in progress
+- crafting in progress
+
+-10.04
+- simple enemy AI, enemy health, ragdoll
+- simple inventory + save/load
+- crafting in progress
+- item pickup
+
+TODO:
+- ai cone of view, obstacle avoidance
+- inventory done
+- simple crafting
+- push everything together
+
+-17.04
+- AI + navmesh on outside map
+- crafting skeleton + recepies
+- better controler
+
+TODO:
+- fix navmesh
+- crafting
+- inventory
+- controler
+- UI
+
+-24.04
+- fixed navmesh
+- new player controler
+- crafting
+- inventory
+- started merging everything together
+
+TODO:
+- fix merging
+- smarter AI, fixed roam points
+- GAME GEM
+
+29.4
+GAME GEEEM
+- merge fix
+- loading screen
+- ai updated
+- inventory updated
+- crafting updated
+
+3.6
+- new maps done
+- new and polished player controler
+
+TODO:
+- collisions in maps
+- new enemies ??
+- crafting
+- prefabs for collectibles

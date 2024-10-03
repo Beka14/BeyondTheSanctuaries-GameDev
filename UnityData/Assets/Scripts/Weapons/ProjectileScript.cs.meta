@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5823ac1c9f5ff67449c1977d96de7fc8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - projectileWoodImpact: {instanceID: 0}
+  - projectileMetalImpact: {instanceID: 0}
+  - projectileConcreteImpact: {instanceID: 0}
+  - projectileDirtImpact: {instanceID: 0}
+  - projectileWaterImpact: {instanceID: 0}
+  - projectileFleshImpact: {instanceID: 0}
+  - projectileGlassImpact: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

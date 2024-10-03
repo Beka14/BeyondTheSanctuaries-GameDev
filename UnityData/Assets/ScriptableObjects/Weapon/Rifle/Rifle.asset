@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa672b84d9996eb4794ba8f8c3f19a68, type: 3}
+  m_Name: Rifle
+  m_EditorClassIdentifier: 
+  projectile: {fileID: 11400000, guid: fda37492ee2e2644d80ba38ebefd4b7d, type: 2}
+  clip: {fileID: 6497209128563585791, guid: 8bfc9248f94d74147851c8c2c6049525, type: 3}
+  projectileShell: {fileID: 735549343682049669, guid: 67059ad98ac56ab44b14454e239f6dfd,
+    type: 3}
+  shellEjectionForce: 0.5
+  maxAmmo: 100
+  clipAmmo: 8
+  fireRate: 0.2
+  reloadTime: 3.2
+  spread: 0.2
+  recoil: 10
+  shootingMode: 0
+  bulletsPerBurst: 0
+  ammo: {fileID: 11400000, guid: 875188a5280f3934bb7d3761b03ad5b9, type: 2}
+  ammoType: {fileID: 11400000, guid: f380ed8c02893274284a0da87deabd53, type: 2}
+  weaponName: M1
+  animatorController: {fileID: 9100000, guid: c8a619e05acfa96489dc1c080679f716, type: 2}
+  fireSound: {fileID: 8300000, guid: c5bba768a5efdbc4d84294f00db0ad93, type: 3}
+  reloadSound: {fileID: 8300000, guid: 012f6a6ac74f25744b0297c9e7befdc2, type: 3}
+  dryFireSound: {fileID: 8300000, guid: 012f6a6ac74f25744b0297c9e7befdc2, type: 3}

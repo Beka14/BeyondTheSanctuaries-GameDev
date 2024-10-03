@@ -1,0 +1,54 @@
+Hráč 1)
+	- Málo enemies
+	- Malý hud na tom počítači interactable
+	- Divný stín možno ho zrušiť.
+	- Pridať UI 
+	- Bug s nábojmi, keď sa nabije viac ako má mať zbraň. 
+	- Terrain by mohol byť iný než plain.
+	- Ragdols sú benger.
+	- Málo lootu.
+	- Pridať nejaký progress.
+	- dvere na domoch treba nejak zabarikádovať abz bolo jasne ze sa neda vojst dovnutra 
+Hráč 2)
+	- Zlý scale.
+	- Začínať v bunkry.
+	- Hráč netušil čo má robiť.
+	- Loading screen medzi scénami ? 
+	- Rozmiestniť loot strategicky podľa lokácie.
+	- Loot v barákoch ? 
+	- Presun je pomalý. 
+	- Páčilo by sa mu keby sa viac chodilo po barákoch, nie po otvorenom priestranstve.
+	- Pridať miny..
+	- Nejako uľahčiť cestu nazad, velmi dlhe a monotonne
+Hráč 3)
+	- dobry napad
+	- nie je co hrat
+	- aim dow sights
+	- viac lootu
+	- zly scale, mapa dobra ale moc velka
+	- enemy should have weapons
+
+Hráč 4) - pomaly hrac
+	- zvlastne strielanie
+	- scaling
+	- dobre assets
+	- viac ciest z bunkru
+
+Z feedbacku sme posudili ze budeme postupovat:
+
+MUST HAVE:
+- UI
+- malo enemies, enemies so zbranami
+- rescaling mapu
+- viac lootu
+- monotonnost game loopu, lepsi game loop
+
+IMPORTANT:
+- loot po barakoch, chodenie cez domy, zabarikadovat baraky
+- aim zlepsit
+- pomaly hrac
+- viac difficult teren mapy
+
+NICE TO HAVE:
+- enviro challenges
+- more weapons
